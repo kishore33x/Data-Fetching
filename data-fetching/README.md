@@ -1,6 +1,3 @@
-# Data-Fetching
-
-
 # Advanced Data Fetching: SSG, SSR, ISR — Demo App
 
 ## Overview
